@@ -1,6 +1,6 @@
 # IMDB-Movies-Dataset-Analysis
 ## Dataset Description :
-Here's a data set of 1,000 most popular movies on IMDB in the last 10 years from 2006 to 2016. The data points included Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore.
+Here's a data set of the 1,000 most popular movies on IMDB in the last 10 years from 2006 to 2016. The data points included Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, and Metascrore.
 
 ## Python libraries used :
 * Numpy
