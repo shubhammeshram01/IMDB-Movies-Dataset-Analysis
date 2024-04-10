@@ -36,4 +36,4 @@ Here's a data set of the 1,000 most popular movies on IMDB in the last 10 years 
 # Analysis Files
 |Name|Analysis File|CSV File|My GitHub|My Linkedln|
 |-|-|-|-|-|
-|IMBD Movies Data Analysis|[Link](https://github.com/shubhammeshram01/IMDB-Movies-Dataset-Analysis/blob/main/IMDB%20Movies%20Data%20Analysis.ipynb)|[Link](https://github.com/shubhammeshram01/IMDB-Movies-Dataset-Analysis/blob/main/IMDB%20Movie.csv)|[Link](https://github.com/shubhammeshram01)|[Link]()|
+|IMBD Movies Data Analysis|[Link](https://github.com/shubhammeshram01/IMDB-Movies-Dataset-Analysis/blob/main/IMDB%20Movies%20Data%20Analysis.ipynb)|[Link](https://github.com/shubhammeshram01/IMDB-Movies-Dataset-Analysis/blob/main/IMDB%20Movie.csv)|[Github](https://github.com/shubhammeshram01)|[Linkedln]()|
